@@ -6,7 +6,7 @@ class SignupModel(BaseModel):
     email : EmailStr = Field(..., description="User's email address")
     password : str = Field(..., min_length=6, description="User's password")
     confirmpassword: str = Field(..., min_length=6)
-    interests : List[str] = Field(default_factory=list, description="List of user's interests")
+    interests : List[str] = Field(..., description="List of user's interests")
 
 
 class LoginModel(BaseModel):
