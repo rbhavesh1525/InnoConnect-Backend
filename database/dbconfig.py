@@ -3,7 +3,6 @@ from supabase import create_client, Client
 from dotenv import load_dotenv
 
 load_dotenv()
-load_dotenv()
 
 # print("DEBUG: SUPABASE_URL =", repr(os.getenv("SUPABASE_URL")))
 # print("DEBUG: SUPABASE_SERVICE_ROLE_KEY =", repr(os.getenv("SUPABASE_SERVICE_ROLE_KEY")))

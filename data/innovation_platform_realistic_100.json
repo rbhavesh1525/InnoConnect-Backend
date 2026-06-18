@@ -1,0 +1,1302 @@
+[
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 001",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "AI-Powered Personalized Learning Assistant",
+      "description": "Adaptive learning platform for students",
+      "problem_statement": "Traditional classrooms struggle to provide personalized attention",
+      "solution_overview": "AI analyzes learning patterns and recommends customized content",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 002",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Virtual STEM Lab",
+      "description": "Online science experimentation environment",
+      "problem_statement": "Schools lack access to expensive laboratory equipment",
+      "solution_overview": "Virtual simulations enable practical STEM learning",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 003",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Career Path Recommender",
+      "description": "Career guidance system",
+      "problem_statement": "Students lack awareness of suitable career options",
+      "solution_overview": "AI maps skills and interests to career paths",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 004",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Exam Preparation Coach",
+      "description": "Smart test preparation platform",
+      "problem_statement": "Students struggle to identify weak topics",
+      "solution_overview": "AI creates personalized study plans",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 005",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Language Learning Companion",
+      "description": "Interactive language tutor",
+      "problem_statement": "Language learners need continuous practice",
+      "solution_overview": "Conversational AI provides real-time feedback",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 006",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Teacher Analytics Dashboard",
+      "description": "Performance analytics tool",
+      "problem_statement": "Teachers lack insights into student engagement",
+      "solution_overview": "Learning analytics identify struggling students",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 007",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Skill Gap Analyzer",
+      "description": "Workforce upskilling platform",
+      "problem_statement": "Professionals cannot identify skill gaps",
+      "solution_overview": "AI compares profiles against industry demand",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 008",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Peer Learning Network",
+      "description": "Collaborative study platform",
+      "problem_statement": "Students often learn in isolation",
+      "solution_overview": "Connects peers with complementary strengths",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 009",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Research Mentor Finder",
+      "description": "Academic mentorship platform",
+      "problem_statement": "Students struggle to find research mentors",
+      "solution_overview": "Matches students with experts",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "EdTech Innovators 010",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Accessibility Learning Suite",
+      "description": "Inclusive education platform",
+      "problem_statement": "Learning resources are inaccessible to some students",
+      "solution_overview": "Adaptive content improves accessibility",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 011",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Remote Patient Monitoring",
+      "description": "Continuous health tracking platform",
+      "problem_statement": "Chronic patients require frequent monitoring",
+      "solution_overview": "IoT devices send health metrics to doctors",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 012",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "AI Symptom Checker",
+      "description": "Pre-diagnosis assistant",
+      "problem_statement": "Patients delay medical consultations",
+      "solution_overview": "AI assesses symptoms and suggests next steps",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 013",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Hospital Bed Optimizer",
+      "description": "Resource allocation platform",
+      "problem_statement": "Hospitals face bed shortages",
+      "solution_overview": "Predictive analytics optimize occupancy",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 014",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Medical Image Diagnosis Assistant",
+      "description": "Radiology support system",
+      "problem_statement": "Manual scan review is time-consuming",
+      "solution_overview": "Deep learning highlights abnormalities",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 015",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Medicine Adherence Tracker",
+      "description": "Medication reminder solution",
+      "problem_statement": "Patients forget prescribed medication",
+      "solution_overview": "Automated reminders improve adherence",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 016",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Mental Wellness Companion",
+      "description": "Mental health support chatbot",
+      "problem_statement": "Access to therapists is limited",
+      "solution_overview": "AI provides wellness guidance",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 017",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Emergency Response Predictor",
+      "description": "Emergency demand forecasting",
+      "problem_statement": "Ambulance deployment is inefficient",
+      "solution_overview": "AI predicts emergency hotspots",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 018",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Telemedicine Connect",
+      "description": "Remote consultation platform",
+      "problem_statement": "Rural communities lack specialists",
+      "solution_overview": "Secure virtual consultations",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 019",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Disease Risk Predictor",
+      "description": "Preventive healthcare analytics",
+      "problem_statement": "Diseases are often detected late",
+      "solution_overview": "ML predicts future health risks",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Healthcare Innovators 020",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Health Records Integrator",
+      "description": "Unified patient data platform",
+      "problem_statement": "Medical records are fragmented",
+      "solution_overview": "Centralized secure records management",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 021",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 1",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 022",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 2",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 023",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 3",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 024",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 4",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 025",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 5",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 026",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 6",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 027",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 7",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 028",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 8",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 029",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 9",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "FinTech Ventures 030",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Financial Innovation Platform 10",
+      "description": "Technology platform focused on fintech transformation.",
+      "problem_statement": "Organizations face operational challenges in fintech.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in fintech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 031",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 1",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 032",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 2",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 033",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 3",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 034",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 4",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 035",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 5",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 036",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 6",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 037",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 7",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 038",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 8",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 039",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 9",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Agriculture Ventures 040",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Agri Innovation Platform 10",
+      "description": "Technology platform focused on agriculture transformation.",
+      "problem_statement": "Organizations face operational challenges in agriculture.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 041",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 1",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 042",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 2",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 043",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 3",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 044",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 4",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 045",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 5",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 046",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 6",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 047",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 7",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 048",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 8",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 049",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 9",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "AI Ventures 050",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "AI Innovation Platform 10",
+      "description": "Technology platform focused on ai transformation.",
+      "problem_statement": "Organizations face operational challenges in ai.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in ai.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 051",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 1",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 052",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 2",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 053",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 3",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 054",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 4",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 055",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 5",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 056",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 6",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 057",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 7",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 058",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 8",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 059",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 9",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Cybersecurity Ventures 060",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Cyber Innovation Platform 10",
+      "description": "Technology platform focused on cybersecurity transformation.",
+      "problem_statement": "Organizations face operational challenges in cybersecurity.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 061",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 1",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 062",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 2",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 063",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 3",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 064",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 4",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 065",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 5",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 066",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 6",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 067",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 7",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 068",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 8",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 069",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 9",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Energy Ventures 070",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Energy Innovation Platform 10",
+      "description": "Technology platform focused on energy transformation.",
+      "problem_statement": "Organizations face operational challenges in energy.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 071",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 1",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 072",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 2",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 073",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 3",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 074",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 4",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 075",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 5",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 076",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 6",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 077",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 7",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 078",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 8",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 079",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 9",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "IoT Ventures 080",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "IoT Innovation Platform 10",
+      "description": "Technology platform focused on iot transformation.",
+      "problem_statement": "Organizations face operational challenges in iot.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in iot.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 081",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 1",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 082",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 2",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 083",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 3",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 084",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 4",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 085",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 5",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 086",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 6",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 087",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 7",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 088",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 8",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 089",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 9",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Smart Cities Ventures 090",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Urban Innovation Platform 10",
+      "description": "Technology platform focused on smart cities transformation.",
+      "problem_statement": "Organizations face operational challenges in smart cities.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in smart cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 091",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 1",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 092",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 2",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 093",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 3",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 094",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 4",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 095",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 5",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 096",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 6",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 097",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 7",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 098",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 8",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 099",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 9",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Logistics Ventures 100",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Logistics Innovation Platform 10",
+      "description": "Technology platform focused on logistics transformation.",
+      "problem_statement": "Organizations face operational challenges in logistics.",
+      "solution_overview": "AI, analytics, and automation improve efficiency in logistics.",
+      "industry_category": "Logistics"
+    }
+  }
+]
