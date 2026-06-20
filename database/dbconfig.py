@@ -12,6 +12,9 @@ load_dotenv()
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_SERVICE_ROLE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 
+print("DEBUG: SUPABASE_URL =", SUPABASE_URL)
+print("DEBUG: SUPABASE_SERVICE_ROLE_KEY =", SUPABASE_SERVICE_ROLE_KEY)
+
 if not SUPABASE_SERVICE_ROLE_KEY or not SUPABASE_URL:
     raise Exception("Supabase URL or Service Role Key is not set in environment variables.")
 

@@ -13,9 +13,10 @@ def signup(request : SignupModel):
         result = signup_user(
             request.name,
             request.email,
+            request.phone,
             request.password,
             request.confirmpassword,
-            request.interests
+            request.role
         )
         return result
     except Exception as e:

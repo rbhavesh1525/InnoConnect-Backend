@@ -9,51 +9,88 @@ load_dotenv()
 JWT_SECRET = os.getenv("SUPABASE_JWT_SECRET")
 ALGORITHM = "HS256"
 
-def signup_user(name: str, email: str, password: str, confirmpassword: str, interests: list):
+
+def signup_user(
+    name: str,
+    email: str,
+    phone: str,
+    password: str,
+    confirmpassword: str,
+    role: str
+):
     """Handles user signup with validations."""
 
-    # ✅ Check for password match
     if password != confirmpassword:
-        return {"success": False, "message": "Passwords do not match"}
+        return {
+            "success": False,
+            "message": "Passwords do not match"
+        }
 
-    # ✅ Check password length
     if len(password) < 8:
-        return {"success": False, "message": "Password must be at least 8 characters long"}
+        return {
+            "success": False,
+            "message": "Password must be at least 8 characters long"
+        }
+
+    if role not in ["innovator", "investor"]:
+        return {
+            "success": False,
+            "message": "Invalid role selected"
+        }
 
     try:
-        # ✅ Create user in Supabase Auth
+
         user_data = supabase.auth.admin.create_user({
             "email": email.lower(),
             "password": password,
-            "email_confirm": True,
+            "email_confirm": True
         })
 
         if not user_data.user:
-            return {"success": False, "message": "User creation failed. Please try again."}
+            return {
+                "success": False,
+                "message": "User creation failed"
+            }
 
         user_id = user_data.user.id
 
-        # ✅ Insert user profile into database
         res = supabase.table("users").insert({
             "user_id": user_id,
             "name": name,
             "email": email.lower(),
-            "interests": interests
+            "phone": phone,
+            "role": role
         }).execute()
 
         if not res.data:
-            return {"success": False, "message": "Failed to insert user profile in database."}
+            return {
+                "success": False,
+                "message": "Failed to create profile"
+            }
 
-        return {"success": True, "message": "User created successfully", "user_id": user_id}
+        return {
+            "success": True,
+            "message": "User created successfully",
+            "user_id": user_id
+        }
 
     except Exception as e:
+
         error_message = str(e)
-        if "User already registered" in error_message or "duplicate key" in error_message:
-            return {"success": False, "message": "Email already exists"}
-        elif "Password should be at least" in error_message:
-            return {"success": False, "message": "Password must be at least 8 characters long"}
-        else:
-            return {"success": False, "message": "Signup failed. Please try again later."}
+
+        if (
+            "User already registered" in error_message
+            or "duplicate key" in error_message
+        ):
+            return {
+                "success": False,
+                "message": "Email already exists"
+            }
+
+        return {
+            "success": False,
+            "message": error_message
+        }
 
 
 
