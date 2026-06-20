@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+supabase
+python-jose[cryptography]
+pydantic[email]
+numpy
+scikit-learn
+sentence-transformers

@@ -123,3 +123,29 @@ def login_user(email: str, password: str):
             return {"success": False, "message": "Invalid email or password"}
         else:
             return {"success": False, "message": "Login failed. Please try again later."}
+
+
+def get_user_by_id(user_id: str):
+    result = (
+        supabase.table("users")
+        .select("user_id,name,email")
+        .eq("user_id", user_id)
+        .execute()
+    )
+
+    if not result.data:
+        return None
+
+    return result.data[0]
+
+
+def get_users_except_me(my_id: str):
+    
+    result = (
+        supabase.table("users")
+        .select("user_id,name,email")
+        .neq("user_id", my_id)
+        .execute()
+    )
+
+    return result.data

@@ -1,0 +1,1302 @@
+[
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 001",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 001",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 002",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 002",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 003",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 003",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 004",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 004",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 005",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 005",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 006",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 006",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 007",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 007",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 008",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 008",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 009",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 009",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 010",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 010",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 011",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 011",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 012",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 012",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 013",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 013",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 014",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 014",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 015",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 015",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 016",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 016",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 017",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 017",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 018",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 018",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 019",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 019",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 020",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 020",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 021",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 021",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 022",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 022",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 023",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 023",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 024",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 024",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 025",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 025",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 026",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 026",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 027",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 027",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 028",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 028",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 029",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 029",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 030",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 030",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 031",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 031",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 032",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 032",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 033",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 033",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 034",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 034",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 035",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 035",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 036",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 036",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 037",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 037",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 038",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 038",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 039",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 039",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 040",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 040",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 041",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 041",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 042",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 042",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 043",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 043",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 044",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 044",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 045",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 045",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 046",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 046",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 047",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 047",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 048",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 048",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 049",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 049",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 050",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 050",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 051",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 051",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 052",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 052",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 053",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 053",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 054",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 054",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 055",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 055",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 056",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 056",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 057",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 057",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 058",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 058",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 059",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 059",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 060",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 060",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 061",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 061",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 062",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 062",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 063",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 063",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 064",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 064",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 065",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 065",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 066",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 066",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 067",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 067",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 068",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 068",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 069",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 069",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 070",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 070",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 071",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 071",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 072",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 072",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 073",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 073",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 074",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 074",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 075",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 075",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 076",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 076",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 077",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 077",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 078",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 078",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 079",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 079",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 080",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 080",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 081",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 081",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 082",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 082",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 083",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 083",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 084",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 084",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 085",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 085",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 086",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 086",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 087",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 087",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 088",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 088",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 089",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 089",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 090",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 090",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 091",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 091",
+      "description": "A solution-focused project targeting challenges in Healthcare.",
+      "problem_statement": "Existing approaches in Healthcare face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Healthcare.",
+      "industry_category": "Healthcare"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 092",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 092",
+      "description": "A solution-focused project targeting challenges in FinTech.",
+      "problem_statement": "Existing approaches in FinTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in FinTech.",
+      "industry_category": "FinTech"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 093",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 093",
+      "description": "A solution-focused project targeting challenges in Agriculture.",
+      "problem_statement": "Existing approaches in Agriculture face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Agriculture.",
+      "industry_category": "Agriculture"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 094",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 094",
+      "description": "A solution-focused project targeting challenges in AI.",
+      "problem_statement": "Existing approaches in AI face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in AI.",
+      "industry_category": "AI"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 095",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 095",
+      "description": "A solution-focused project targeting challenges in Cybersecurity.",
+      "problem_statement": "Existing approaches in Cybersecurity face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Cybersecurity.",
+      "industry_category": "Cybersecurity"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 096",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 096",
+      "description": "A solution-focused project targeting challenges in Energy.",
+      "problem_statement": "Existing approaches in Energy face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Energy.",
+      "industry_category": "Energy"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 097",
+      "member_status": "Mentor"
+    },
+    "project": {
+      "project_title": "Innovation Project 097",
+      "description": "A solution-focused project targeting challenges in IoT.",
+      "problem_statement": "Existing approaches in IoT face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in IoT.",
+      "industry_category": "IoT"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 098",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 098",
+      "description": "A solution-focused project targeting challenges in Smart Cities.",
+      "problem_statement": "Existing approaches in Smart Cities face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Smart Cities.",
+      "industry_category": "Smart Cities"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 099",
+      "member_status": "Innovator"
+    },
+    "project": {
+      "project_title": "Innovation Project 099",
+      "description": "A solution-focused project targeting challenges in Logistics.",
+      "problem_statement": "Existing approaches in Logistics face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in Logistics.",
+      "industry_category": "Logistics"
+    }
+  },
+  {
+    "personal_detail": {
+      "user_name_or_organization": "Innovation Entity 100",
+      "member_status": "Investor"
+    },
+    "project": {
+      "project_title": "Innovation Project 100",
+      "description": "A solution-focused project targeting challenges in EdTech.",
+      "problem_statement": "Existing approaches in EdTech face efficiency and scalability issues.",
+      "solution_overview": "Uses AI, analytics, and automation to improve outcomes in EdTech.",
+      "industry_category": "EdTech"
+    }
+  }
+]
