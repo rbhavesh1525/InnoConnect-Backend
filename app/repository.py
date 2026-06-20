@@ -33,7 +33,7 @@ def get_all_embeddings():
     return rows
 
 
-def save_project(project, owner="Website User"):
+def save_project(project, owner, owner_id):
     supabase = get_supabase_client()
 
     response = (
@@ -41,6 +41,7 @@ def save_project(project, owner="Website User"):
         .insert(
             {
                 "owner": owner,
+                "owner_id": owner_id,
                 "project_title": project.project_title,
                 "description": project.description,
                 "problem_statement": project.problem_statement,

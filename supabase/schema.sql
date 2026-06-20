@@ -12,6 +12,7 @@ create table if not exists users (
 create table if not exists projects (
   id bigint generated always as identity primary key,
   owner text,
+  owner_id uuid references users(user_id) on delete set null,
   project_title text not null,
   description text,
   problem_statement text,
