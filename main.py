@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 from routes.user_routes import router as user_router
+from routes.profile_routes import router as profile_router
 from fastapi.middleware.cors import CORSMiddleware
 
 from database.dbconfig import get_supabase_client
@@ -21,6 +22,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 app.include_router(user_router, prefix="/api/auth")
+app.include_router(
+    profile_router,
+    prefix="/api/user"
+)
 
 
 @app.get("/")
