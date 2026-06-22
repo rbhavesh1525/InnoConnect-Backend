@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from routes.project_routes import router as project_router
 from routes.user_routes import router as user_router
-
+from routes.InvestorVerificationRequest_routes import router as investor_verification_router
 from routes.profile_routes import router as profile_router
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -43,6 +43,11 @@ app.include_router(websocket_router)
 app.include_router(collaboration_router)
 
 
+app.include_router(
+    investor_verification_router,
+    prefix="/api/investor-verification",
+    tags=["Investor Verification"]
+)
 
 @app.get("/")
 def home():
