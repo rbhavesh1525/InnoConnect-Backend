@@ -8,7 +8,7 @@ def get_all_embeddings():
         supabase.table("project_embeddings")
         .select(
             "project_id, embedding, "
-            "projects(id, owner, project_title, description, "
+            "projects(id, owner, owner_id, project_title, description, "
             "problem_statement, solution_overview, industry_category)"
         )
         .execute()
@@ -21,6 +21,7 @@ def get_all_embeddings():
             {
                 "id": project.get("id") or item.get("project_id"),
                 "owner": project.get("owner"),
+                "owner_id": project.get("owner_id"),
                 "project_title": project.get("project_title"),
                 "description": project.get("description"),
                 "problem_statement": project.get("problem_statement"),

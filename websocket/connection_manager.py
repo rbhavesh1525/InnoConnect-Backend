@@ -36,12 +36,15 @@ class ConnectionManager:
         data: dict
     ):
 
-        websocket = self.active_connections.get(
-            user_id
-        )
+        websocket = self.active_connections.get(user_id)
 
         if websocket:
-            await websocket.send_json(data)
+            try:
+                await websocket.send_json(data)
+            except Exception:
+                # Stale connection — remove it so the next message
+                # doesn't try to use a dead socket.
+                self.disconnect(user_id)
 
 
 manager = ConnectionManager()

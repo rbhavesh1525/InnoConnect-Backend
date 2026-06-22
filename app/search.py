@@ -77,6 +77,8 @@ def search_project_submission(project, top_k=5):
 
         results.append(
             {
+                "project_id": p["id"],
+                "owner_id": p.get("owner_id"),
                 "project_title": p["project_title"],
                 "owner": owner,
                 "industry": p["industry_category"],
