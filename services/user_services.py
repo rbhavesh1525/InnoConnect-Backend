@@ -76,23 +76,12 @@ def signup_user(
 
     except Exception as e:
 
-        error_message = str(e)
-
-        if (
-            "User already registered" in error_message
-            or "duplicate key" in error_message
-        ):
-            return {
-                "success": False,
-                "message": "Email already exists"
-            }
+        print("SIGNUP ERROR => ", str(e))
 
         return {
-            "success": False,
-            "message": error_message
-        }
-
-
+        "success": False,
+        "message": str(e)
+    }
 
 def login_user(email: str, password: str):
     """Handles user login."""
