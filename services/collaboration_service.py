@@ -88,6 +88,10 @@ def get_incoming_requests(user_id: str):
     return [_enrich_request(req, "sender_id") for req in requests]
 
 
+def get_pending_request_count(user_id: str) -> int:
+    return len(get_incoming_requests(user_id))
+
+
 def get_sent_requests(user_id: str):
     response = (
         supabase.table("collaboration_requests")
