@@ -6,7 +6,7 @@ from routes.user_routes import router as user_router
 from routes.InvestorVerificationRequest_routes import router as investor_verification_router
 from routes.profile_routes import router as profile_router
 from fastapi.middleware.cors import CORSMiddleware
-
+from routes.follow_routes import router as follow_router
 from routes.message_routes import router as message_router
 
 from websocket.websocket_routes import router as websocket_router
@@ -49,6 +49,11 @@ app.include_router(
     tags=["Investor Verification"]
 )
 
+app.include_router(
+    follow_router,
+    prefix="/api/follow",
+    tags=["Follow"]
+)
 @app.get("/")
 def home():
     return {
