@@ -14,6 +14,8 @@ from websocket.websocket_routes import router as websocket_router
 from routes.collaboration_routes import (
     router as collaboration_router
 )
+from routes.innovation_routes import router as innovation_router
+
 
 
 app = FastAPI(title="InnoConnect API")
@@ -41,6 +43,7 @@ app.include_router(project_router)
 app.include_router(message_router)
 app.include_router(websocket_router)
 app.include_router(collaboration_router)
+app.include_router(innovation_router)
 
 
 app.include_router(
