@@ -34,3 +34,176 @@ def submit_verification_request(
         "message": "Verification request submitted",
         "data": response.data
     }
+
+def get_all_verification_requests():
+
+    try:
+
+        print(
+            "[INVESTOR REQUESTS] Fetching all requests..."
+        )
+
+        response = (
+            supabase
+            .table("investor_verification_requests")
+            .select("*")
+            .execute()
+        )
+
+        print(
+            f"[INVESTOR REQUESTS] Found {len(response.data)} requests"
+        )
+
+        return {
+            "success": True,
+            "count": len(response.data),
+            "data": response.data
+        }
+
+    except Exception as e:
+
+        print(
+            f"[INVESTOR REQUESTS ERROR] {str(e)}"
+        )
+
+        return {
+            "success": False,
+            "message": str(e)
+        }
+
+
+def approve_investor_request(
+    request_id: int
+):
+
+    try:
+
+        request = (
+            supabase
+            .table(
+                "investor_verification_requests"
+            )
+            .select("*")
+            .eq("id", request_id)
+            .single()
+            .execute()
+        )
+
+        if not request.data:
+
+            return {
+                "success": False,
+                "message": "Request not found"
+            }
+
+        user_id = request.data["user_id"]
+
+        (
+            supabase
+            .table(
+                "investor_verification_requests"
+            )
+            .update({
+                "status": "approved"
+            })
+            .eq("id", request_id)
+            .execute()
+        )
+
+        (
+            supabase
+            .table("users")
+            .update({
+                "verification_status": True
+            })
+            .eq("user_id", user_id)
+            .execute()
+        )
+
+        print(
+            f"[APPROVED] Request={request_id} User={user_id}"
+        )
+
+        return {
+            "success": True,
+            "message": "Investor approved successfully"
+        }
+
+    except Exception as e:
+
+        print(
+            f"[APPROVE ERROR] {str(e)}"
+        )
+
+        return {
+            "success": False,
+            "message": str(e)
+        }
+
+def reject_investor_request(
+    request_id: int
+):
+
+    try:
+
+        request = (
+            supabase
+            .table(
+                "investor_verification_requests"
+            )
+            .select("*")
+            .eq("id", request_id)
+            .single()
+            .execute()
+        )
+
+        if not request.data:
+
+            return {
+                "success": False,
+                "message": "Request not found"
+            }
+
+        user_id = request.data["user_id"]
+
+        (
+            supabase
+            .table(
+                "investor_verification_requests"
+            )
+            .update({
+                "status": "rejected"
+            })
+            .eq("id", request_id)
+            .execute()
+        )
+
+        (
+            supabase
+            .table("users")
+            .update({
+                "verification_status": False
+            })
+            .eq("user_id", user_id)
+            .execute()
+        )
+
+        print(
+            f"[REJECTED] Request={request_id} User={user_id}"
+        )
+
+        return {
+            "success": True,
+            "message": "Investor request rejected"
+        }
+
+    except Exception as e:
+
+        print(
+            f"[REJECT ERROR] {str(e)}"
+        )
+
+        return {
+            "success": False,
+            "message": str(e)
+        }

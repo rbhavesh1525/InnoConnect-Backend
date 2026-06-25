@@ -57,6 +57,13 @@ app.include_router(
     prefix="/api/follow",
     tags=["Follow"]
 )
+
+app.include_router(
+    project_like_router,
+    prefix="/api/project-likes",
+    tags=["Project Likes"]
+)
+
 @app.get("/")
 def home():
     return {
