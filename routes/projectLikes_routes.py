@@ -1,10 +1,10 @@
 from fastapi import APIRouter
 
-from models.projectLikeSchema import (
+from models.projectLikesSchema import (
     ProjectLikeRequest
 )
 
-from services.projectLike_service import (
+from services.projectLikes_service import (
     like_project
 )
 

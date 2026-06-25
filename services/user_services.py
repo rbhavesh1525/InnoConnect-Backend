@@ -98,11 +98,27 @@ def login_user(email: str, password: str):
         user_id = auth_response.user.id
         token = jwt.encode({"user_id": user_id}, JWT_SECRET, algorithm=ALGORITHM)
 
+        # Fetch role and verification_status from users table
+        user_record = (
+            supabase.table("users")
+            .select("role, verification_status, name")
+            .eq("user_id", user_id)
+            .single()
+            .execute()
+        )
+
+        user_data = user_record.data or {}
+
         return {
             "success": True,
             "message": "Login successful",
             "token": token,
-            "user_id": user_id
+            "user_id": user_id,
+            "user": {
+                "role": user_data.get("role", ""),
+                "name": user_data.get("name", ""),
+                "verification_status": user_data.get("verification_status", False),
+            }
         }
 
     except Exception as e:
@@ -112,6 +128,7 @@ def login_user(email: str, password: str):
             return {"success": False, "message": "Invalid email or password"}
         else:
             return {"success": False, "message": "Login failed. Please try again later."}
+
 
 
 def get_user_by_id(user_id: str):
@@ -138,3 +155,45 @@ def get_users_except_me(my_id: str):
     )
 
     return result.data
+
+
+def get_admin_stats():
+    """Returns dashboard stats for admin panel."""
+    try:
+        total_users = (
+            supabase.table("users")
+            .select("user_id", count="exact")
+            .execute()
+        )
+
+        total_investors = (
+            supabase.table("users")
+            .select("user_id", count="exact")
+            .eq("role", "investor")
+            .execute()
+        )
+
+        pending_requests = (
+            supabase.table("investor_verification_requests")
+            .select("id", count="exact")
+            .eq("status", "pending")
+            .execute()
+        )
+
+        approved_investors = (
+            supabase.table("investor_verification_requests")
+            .select("id", count="exact")
+            .eq("status", "approved")
+            .execute()
+        )
+
+        return {
+            "success": True,
+            "total_users":         total_users.count or 0,
+            "total_investors":     total_investors.count or 0,
+            "pending_requests":    pending_requests.count or 0,
+            "approved_investors":  approved_investors.count or 0,
+        }
+
+    except Exception as e:
+        return {"success": False, "message": str(e)}

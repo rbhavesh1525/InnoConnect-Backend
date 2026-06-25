@@ -5,14 +5,14 @@ from models.InvestorVerificationRequest_Schema import (
 )
 
 from services.InvestorVerificationRequest_service import (
-    submit_verification_request
-)
-
-from services.InvestorVerificationRequest_service import (
-    get_all_verification_requests
+    submit_verification_request,
+    get_all_verification_requests,
+    approve_investor_request,
+    reject_investor_request,
 )
 
 router = APIRouter()
+
 
 @router.post("/submit/{user_id}")
 def submit_verification(
@@ -24,11 +24,10 @@ def submit_verification(
         request
     )
 
+
 @router.get("/all")
 def fetch_all_verification_requests():
-
     return get_all_verification_requests()
-
 
 
 @router.put("/approve/{request_id}")

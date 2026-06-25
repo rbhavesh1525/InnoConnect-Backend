@@ -4,7 +4,7 @@ from models.projectCommentSchema import (
     ProjectCommentRequest
 )
 
-from services.projectComment_service import (
+from services.projectComments_service import (
     add_comment,
     get_project_comments
 )

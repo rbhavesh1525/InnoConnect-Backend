@@ -5,9 +5,10 @@ from routes.project_routes import router as project_router
 from routes.user_routes import router as user_router
 from routes.InvestorVerificationRequest_routes import router as investor_verification_router
 from routes.profile_routes import router as profile_router
-from fastapi.middleware.cors import CORSMiddleware
 from routes.follow_routes import router as follow_router
 from routes.message_routes import router as message_router
+from routes.projectLikes_routes import router as project_like_router
+from routes.projectComments_routes import router as project_comments_router
 
 from websocket.websocket_routes import router as websocket_router
 
@@ -62,6 +63,12 @@ app.include_router(
     project_like_router,
     prefix="/api/project-likes",
     tags=["Project Likes"]
+)
+
+app.include_router(
+    project_comments_router,
+    prefix="/api/project-comments",
+    tags=["Project Comments"]
 )
 
 @app.get("/")

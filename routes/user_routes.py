@@ -3,6 +3,7 @@ from models.authSchema import SignupModel,TokenModel,LoginModel
 
 from services.user_services import signup_user
 from services.user_services import login_user
+from services.user_services import get_admin_stats
 
 from dependencies.auth_dependency import get_current_user
 from services.user_services import get_users_except_me
@@ -47,3 +48,8 @@ def get_users(
         "success": True,
         "users": users
     }
+
+
+@router.get("/admin-stats")
+def admin_stats():
+    return get_admin_stats()
