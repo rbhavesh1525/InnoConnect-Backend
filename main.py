@@ -9,6 +9,7 @@ from routes.follow_routes import router as follow_router
 from routes.message_routes import router as message_router
 from routes.projectLikes_routes import router as project_like_router
 from routes.projectComments_routes import router as project_comments_router
+from routes.investor_feed_routes import router as investor_feed_router
 
 from websocket.websocket_routes import router as websocket_router
 
@@ -69,6 +70,12 @@ app.include_router(
     project_comments_router,
     prefix="/api/project-comments",
     tags=["Project Comments"]
+)
+
+app.include_router(
+    investor_feed_router,
+    prefix="/api/investor-feed",
+    tags=["Investor Feed"]
 )
 
 @app.get("/")
