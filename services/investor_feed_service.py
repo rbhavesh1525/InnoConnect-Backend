@@ -213,6 +213,10 @@ def get_investor_feed(user_id: str, top_k: int = 10):
                 }
                 for r in valid_rows
             ]
+            
+            # Sort generic feed to prioritize real projects
+            generic.sort(key=lambda x: x.get("owner_id") is not None, reverse=True)
+            
             return {
                 "success": True,
                 "personalised": False,
@@ -308,8 +312,9 @@ def get_investor_feed(user_id: str, top_k: int = 10):
 
             print(f"[INVESTOR FEED]   [{ind_label}] collected {collected}/{quota} projects")
 
-        # ── 5. Sort final list by similarity (best first) ─────────────────
-        results = sorted(buckets, key=lambda x: x["similarity"], reverse=True)
+        # ── 5. Sort final list by (is_real, similarity) (best first) ──────────
+        # Real projects have a non-null owner_id. We prioritize them over synthetic projects.
+        results = sorted(buckets, key=lambda x: (x.get("owner_id") is not None, x.get("similarity", 0)), reverse=True)
 
         # Remove internal _bucket key before returning
         for r in results:

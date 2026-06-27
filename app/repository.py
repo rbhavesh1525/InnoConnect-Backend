@@ -75,3 +75,22 @@ def save_embedding(project_id, embedding):
 
     if not response.data:
         raise Exception("Failed to save project embedding")
+
+def get_projects_by_user_id(owner_id: str):
+    supabase = get_supabase_client()
+    response = (
+        supabase.table("projects")
+        .select("*")
+        .eq("owner_id", owner_id)
+        .execute()
+    )
+    return response.data or []
+
+def get_all_projects():
+    supabase = get_supabase_client()
+    response = (
+        supabase.table("projects")
+        .select("*")
+        .execute()
+    )
+    return response.data or []

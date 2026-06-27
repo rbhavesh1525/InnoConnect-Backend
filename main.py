@@ -17,6 +17,7 @@ from routes.collaboration_routes import (
     router as collaboration_router
 )
 from routes.innovation_routes import router as innovation_router
+from routes.fund_request_routes import router as fund_request_router
 
 
 
@@ -45,6 +46,7 @@ app.include_router(project_router)
 app.include_router(message_router)
 app.include_router(websocket_router)
 app.include_router(collaboration_router)
+app.include_router(fund_request_router)
 app.include_router(innovation_router)
 
 
